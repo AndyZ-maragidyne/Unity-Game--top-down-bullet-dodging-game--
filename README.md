@@ -1,4 +1,4 @@
-A game made in Unity where the player tries to dodge enemy bullets and tries to kill every enemy in the level with a sword
+A game made in Unity where the player tries to dodge enemy bullets and has to kill every enemy in the level with a sword
 
 ### How to play:
 
